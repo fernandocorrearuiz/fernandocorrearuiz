@@ -4,7 +4,7 @@ I'm Fernando, a former lawyer who discovered his better taste for Coding and Sof
 
 I find Software Development very exciting and Codaisseur as the best place in Amsterdam to become a developer. I love to build amazing interactive applications and face new challenges. My goal as a developer is to never give up.
 
-💬 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/fernando-correa-1a60baa4).
+💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fernando-correa-1a60baa4).
 
 📫 Or drop me an email at: fernandocorrearuiz@gmail.com
 
