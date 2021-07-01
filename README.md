@@ -14,7 +14,7 @@ I find Software Development very exciting and Codaisseur as the best place in Am
 
 ### Projects
 
-Habit Tracker is a full stack web app for Personal Development that I have built as part of my final project at Codaisseur. It allows you to keep track of your personal goals and daily weight, as well as helping you to do Yoga sessions.
+The Habit Tracker is a full stack web app for Personal Development that I have built as part of my final project at Codaisseur. It allows you to keep track of your personal goals and daily weight, as well as helping you to do Yoga sessions.
 
 [Habit Tracker: Frontend repo](https://github.com/fernandocorrearuiz/HabitTracker-frontend)
 
