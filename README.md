@@ -14,7 +14,7 @@ I find Software Development very exciting and Codaisseur as the best place in Am
 
 ### Projects
 
-[The Habit Tracker] (https://the-habit-tracker.netlify.app) is a full stack web app for Personal Development that I have built. It allows you to keep track of your personal goals and daily weight, as well as helping you to do Yoga sessions.
+[The Habit Tracker](https://the-habit-tracker.netlify.app) is a full stack web app for Personal Development that I have built. It allows you to keep track of your personal goals and daily weight, as well as helping you to do Yoga sessions.
 
 [Habit Tracker: Frontend repo](https://github.com/fernandocorrearuiz/HabitTracker-frontend)
 
