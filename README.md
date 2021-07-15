@@ -1,10 +1,10 @@
 ## Welcome to my Github profile!
 
-I'm Fernando, a former lawyer who discovered his better taste for Coding and Software Development. I come from Madrid (Spain) but I am currently based in The Netherlands. After self-studying Python/JS for some time in 2020, I enrolled by 2021 in [Codaisseur](https://codaisseur.com/)'s 11 week intensive Full Stack JavaScript bootcamp in Amsterdam.
+I'm Fernando, a former lawyer who discovered his better taste for Coding and Software Development. I come from Madrid (Spain) but I am currently based in Amsterdam, NL. After self-studying Python/JS for some time in 2020, I enrolled by 2021 in [Codaisseur](https://codaisseur.com/)'s 11 week intensive Full Stack JavaScript bootcamp in Amsterdam.
 
-I find Software Development very exciting and Codaisseur as the best place in Amsterdam to become a developer. I love to build amazing interactive applications and face new challenges. My goal as a developer is to never give up.
+I find Software Development very exciting and Codaisseur as the best place in Amsterdam to become a developer. I love to build apps and face new challenges.
 
-💬 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fernando-correa-1a60baa4).
+💬 Feel free to reach out to me on my [LinkedIn](https://www.linkedin.com/in/fernando-correa-1a60baa4).
 
 📫 Or drop me an email at: fernandocorrearuiz@gmail.com
 
@@ -14,7 +14,7 @@ I find Software Development very exciting and Codaisseur as the best place in Am
 
 ### Projects
 
-Habit Tracker is a full stack web app for Personal Development that I have built as part of my final project at Codaisseur. It allows you to keep track of your personal goals and daily weight, as well as helping you to do Yoga sessions.
+[The Habit Tracker] (https://the-habit-tracker.netlify.app) is a full stack web app for Personal Development that I have built. It allows you to keep track of your personal goals and daily weight, as well as helping you to do Yoga sessions.
 
 [Habit Tracker: Frontend repo](https://github.com/fernandocorrearuiz/HabitTracker-frontend)
 
